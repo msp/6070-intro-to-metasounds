@@ -2,7 +2,7 @@
 
 These are the project files associated with the official Epic Developer Community course:
 
-TODO: insert link
+[https://dev.epicgames.com/community/learning/tutorials/Kw7l/unreal-engine-metasounds](https://dev.epicgames.com/community/learning/tutorials/Kw7l/unreal-engine-metasounds)
 
 ## Configure and run
 
