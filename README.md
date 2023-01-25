@@ -23,6 +23,13 @@ These are the project files associated with the official Epic Developer Communit
 - - - - - - Presets
 ```
 
+## Sample Attribution
+
+- https://freesound.org/people/jenc/packs/20/
+- https://freesound.org/people/Robinhood76/packs/6417/
+- https://freesound.org/people/Snapper4298/packs/11176/
+- https://github.com/tidalcycles/Dirt-Samples/tree/master/numbers
+
 ## Thanks
 
 Justin, Cole, Aaron, Grace and all the audio team and Epic :pray:
