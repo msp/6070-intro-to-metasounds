@@ -8,7 +8,7 @@ These are the project files associated with the official Epic Developer Communit
 
 1) Clone this repo using Github Desktop (a folder download *won't work* as we use Git LFS for assets)
 
-![](/github-clone-in-desktop.png?raw=true)
+<img src="/github-clone-in-desktop.png?raw=true" width="200">
 
 
 2) Open `playground.uproject` in Unreal Engine 5
