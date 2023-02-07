@@ -6,7 +6,11 @@ These are the project files associated with the official Epic Developer Communit
 
 ## Configure and run
 
-1) [Download](https://github.com/msp/6070-intro-to-metasounds/archive/refs/heads/main.zip) this repo (or clone if you're comfortable with Git)
+1) Clone this repo using Github Desktop (a folder download *won't work* as we use Git LFS for assets)
+
+![](/github-clone-in-desktop.png?raw=true)
+
+
 2) Open `playground.uproject` in Unreal Engine 5
 3) Enable the MetaSounds plugin
 4) Open assets for each module in the Content directory
